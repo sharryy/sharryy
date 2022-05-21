@@ -1,4 +1,8 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋 I am Shehryar Amin
+
+A software engineer who loves working with databases and backend in general. I love reading system designs 📖 and improving performance and system architectures. Can throw any server-side logic as a component. Exploring my interests in the field of DevOps 🐳 and BlockChain 💵
+
+#### **AND** yes, I can talk to humans too.
 
 <!--
 **sharryy/sharryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
+
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif) 
+###### GIF Credits : [Freek Van Der Herten](https://github.com/freekmurze)
