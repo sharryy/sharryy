@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif) 
 ###### GIF Credits : [Freek Van Der Herten](https://github.com/freekmurze)
