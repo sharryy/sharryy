@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Shehryar Amin
 
-A software engineer who loves working with databases and backend in general. I love reading system designs 📖 and improving performance and system architectures. Can throw any database and server-side logic as a component. Exploring my interests in the field of DevOps 🐳 and BlockChain 💵
+A software engineer who loves working with databases and backend in general. I love reading system designs 📖 and improving performance and system architectures. Exploring my interests in the field of DevOps 🐳 and BlockChain 💵
 
-#### **AND** yes, I am compatible with humans.
+#### **AND** yes, I am compatible with humanstoooooooooo.
 
 <!--
 **sharryy/sharryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
