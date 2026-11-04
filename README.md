@@ -1,5 +1,1 @@
-### Hi there 👋 I am Sharryy!
-
-Sometimes, I write code
-
-
+This user pretends to understand things after too much caffeine.
